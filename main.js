@@ -1,0 +1,1 @@
+$(function(){		var s = Snap("#svgm"),		c = s.paper.circle(50,50,50);				s.attr({			width:300,			viewBox:"0,0,100,100"		})		c.attr({			fill:"#f8ed8d",					})			})

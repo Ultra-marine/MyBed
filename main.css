@@ -13,7 +13,8 @@ h3{
 
 article{
 	position: relative;
-	top: 200px;
+	top: 100px;
+	padding-bottom: 200px;
 }
 
 article p{
@@ -22,6 +23,9 @@ article p{
 	margin: 0 auto;
 	
 }
+
+article svg{
+	margin-top: 50px;}
 	
 #bc00{
 	margin: 0 auto;
