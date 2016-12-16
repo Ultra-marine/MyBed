@@ -17,6 +17,7 @@ body{
 h3{
 	color: white;
 	font-size: 50px;
+	position: relative;
 }	
 
 article{
@@ -46,7 +47,7 @@ article svg{
 #bc00 .bt00{
 	
 	
-	padding: 15px 40px;
+	padding: 25px 60px;
 	color: white;
 	text-decoration: none;
 	font-family: sans-serif;
