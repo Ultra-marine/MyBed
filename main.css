@@ -1,6 +1,28 @@
+*{
+	font-family: sans-serif;
+}
+
 body{
 	background-color: #324f88;
 	}
+
+h3{
+	color: white;
+	font-size: 50px;
+}	
+
+article{
+	position: relative;
+	top: 200px;
+}
+
+article p{
+	color: #f8ed8d;
+	width: 80%;
+	margin: 0 auto;
+	
+}
+	
 #bc00{
 	margin: 0 auto;
 	text-align: center;
